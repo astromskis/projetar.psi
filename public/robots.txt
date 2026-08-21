@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://projetarpsi.com.br/sitemap.xml
